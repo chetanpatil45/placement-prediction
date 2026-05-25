@@ -48,7 +48,7 @@ main/
 ## 🚀 To Run the Project
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Chetanpatil03/placement-prediction.git
+   git clone https://github.com/chetanpatil45/placement-prediction.git
 
 2. Navigate to the project folder
 
